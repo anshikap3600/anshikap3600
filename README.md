@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anshikap3600
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning MongoDB
-- 💞️ I’m looking to collaborate on Microsoft
+- 🌱 I’m currently learning Java
 - 📫 Coding is reach me
 - 😄 Pronouns: she
 - ⚡ Fun fact: You can't see me
