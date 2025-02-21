@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anshikap3600
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning MySQL
 - 📫 Coding is reach me
 - 😄 Pronouns: she
 - ⚡ Fun fact: You can't see me
